@@ -20,8 +20,8 @@ This Project Delves into the Intricate Workings of Amazon Prime, exploring its D
 - [Dataset](#Dataset)
 - [Dataset Description](#Dataset-Description)
 - [Requirement](#Requirement)
-- [Data Cleaning](#Data-Cleaning)
 - [Installation : ETL Tools](#Installation)
+- [Data Cleaning](#Data-Cleaning)
 - [My Project](#My-Project)
 - [Author](#Author)
 - [Lessons Learnt](#Lessons-Learnt)
@@ -42,7 +42,8 @@ As a Prime Member, the Exceptional Ease and Unique Benefits has sparked a Keen i
 
 The Amazon Prime Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16469050/Raw.Data.xlsx)
+- Link :- [[Raw Data.xlsx](https://github.com/user-attachments/files/16469050/Raw.Data.xlsx)
+](https://github.com/MansiPS/Amazon-Prime-using-Jupyter-Notebook/blob/6946f23bdfc0612caa4647f0da2a0430c80ad27e/Raw%20Data.csv)
 
 ## 📑 Dataset Description
 
@@ -58,56 +59,43 @@ When we examine the Data, we observe a number of Different Columns.
   
 # Requirement
 
-- ✅ The Total Casualties taken place after the Accident.
-- ✅ Types of Casualites and its Percentage Distribution 
-- ✅ The total Casualties with respect to the Vehicle type.
-- ✅ The Monthly trend showing Comparisons of Casualties for the Current Year and the Previous Year.
-- ✅ Total Casualties by the Road Type.
-- ✅ Distribution of total Casualties by the Road Surface.
-- ✅ Total Casualties by Area and by Light Conditions.
-
-
-# 🧹 Data Cleaning ✨
-
-- Made Two new Columns 'Month' and 'Year' from 'Accident Date' column.
-- Changed the Data Types wherever required.📅
-- Removed Duplicates.
-- Replaced data with meaningful data etc.📝
+- ✅ To Get the List of Number of Shows per Year Graphically.
+- ✅ To Get the List of Number of Seasons Graphically.
+- ✅ To Get the List of Number of Languages Graphically.
+- ✅ To Get the List of Number of Shows in each Genres Graphically.
+- ✅ To Get the List of Top 10 Genres with Highest no of Shows Graphically.
+- ✅ To Find the List of Top 10 TV shows in the Genre=Drama.
+- ✅ To find the List of Top 10 TV shows in the Genre=Comedy.
+- ✅ To find the List of Top 10 TV shows in the Genre=Kids.
+- ✅ To get the List of Age of Viewers Graphically.
+- ✅ To Get the List of Top 10 Highest Rated Shows Graphically.
+- ✅ To Get the List of Top 10 Lowest Rated Shows Graphically.
+- ✅ To Get the List of Top 10 Highly Rated English Shows Graphically.
+- ✅ To Get the List of Top 10 Highly Rated Hindi Shows Graphically.
+- ✅ To Get the List of Top Highly Rated Shows of 2018.
+- ✅ To Get the List of Top Highly Rated Shows of 2019.
+- ✅ To Get the List of Top Highly Rated Shows of 2020.
+- ✅ To Get the List of Latest Released Shows.
+- ✅ To Find the List of Top 5 shows which has the Highest Number of Seasons.
+- ✅ To find the List of Top 10 Highest Rated Shows with 5 or More than 5 Seasons.
+- ✅ To Plot a Graph to see if the Ratings falls with an Increase in Number of Seasons.
+- ✅ To Find the Oldest Show Available on Prime.
 
 # ✅ Installation : ETL Tools ✅
 
-Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Excel.
-- MS Excel Installation Link :- https://www.microsoft.com/en-in/microsoft-365/excel
+Using the Raw Data, I crafted an Insightful and Visually Compelling Checkpoint in Anaconda Jupyter-Notebook.
+- Anaconda Installation Link :- [https://www.microsoft.com/en-in/microsoft-365/excel](https://www.anaconda.com/download)
+  
+# 🧹 Data Cleaning ✨
+
+- Replace the null values of "IMDB Ratings" using Median Function in Anaconda Jupyter-Notebook.
+- To Drop the S.no. Column.📅
 
 # 🚀 My Project
 
-Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
+A Thorough and Exhaustive Analysis of the Dataset has been Performed, showcasing through a Diverse Array of Captivating Visualizations📊📈 with Insightful Observations and Conclusions Delineated below.
 
-![Screenshot (90)](https://github.com/user-attachments/assets/27905920-bab3-4f5b-a2fb-c3d911216aeb)
-
-Using Custom functions in PIVOT TABLE, I have manipulated data and created this Amazing Interactive Dashboard.
-
-The Operations performed are:
-- Applied Sorting and Filters📶
-- Applied necessary Functions📊
-
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
-
-This Illustrates the Analysis within Rural Areas 📍.
-[![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/8fabba5e25e32a19f5cbb69f3e31e69f7f53ab51/Analysis%201.png)
-
-This Illustrates the Analysis within Urban Areas 📍.
-[![Screenshot (92)](https://github.com/user-attachments/assets/9e43979b-26bc-430e-926a-493b14181ade)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/25e6cc624ba1e04cf1e007bdc45b43225c329d65/Analysis%202.png)
-
-This Illustrates the Analysis for the Accidents Date within 2021 Quarter1 📅.
-[![Screenshot (93)](https://github.com/user-attachments/assets/bc2f13dc-8cbe-409c-ab11-4791a5469eda)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%203.png)
-
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter3 📅.
-[![Screenshot (94)](https://github.com/user-attachments/assets/7957550d-c142-4c6f-89c6-fff7ca476d7a)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%204.png)
-
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
-[![Screenshot (95)](https://github.com/user-attachments/assets/33c6dfe8-b31b-4a50-8482-3ff80f13786e)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%205.png)
-
+Check it here :- https://github.com/MansiPS/Amazon-Prime-using-Jupyter-Notebook/blob/6946f23bdfc0612caa4647f0da2a0430c80ad27e/Amazon%20Prime-checkpoint.html
 
 # Author 🙎‍♀️  
 
@@ -118,8 +106,7 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
 
 - ⭐Data Quality is Crucial
 - ⭐Simplicity Enhances Usability
-- ⭐Effective Use of Visuals
-- ⭐Interactive Elements Add Value
+- ⭐Visualization Aids Understanding
 - ⭐Consistent Formatting is Key
 - ⭐Performance Optimization Matters
 
