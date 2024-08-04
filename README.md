@@ -42,7 +42,7 @@ As a Prime Member, the Exceptional Ease and Unique Benefits has sparked a Keen i
 
 The Amazon Prime Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :- [[Raw Data.xlsx](https://github.com/user-attachments/files/16469050/Raw.Data.xlsx)
+- Link :- [Raw Data.csv](https://github.com/user-attachments/files/16486861/Raw.Data.csv)
 ](https://github.com/MansiPS/Amazon-Prime-using-Jupyter-Notebook/blob/6946f23bdfc0612caa4647f0da2a0430c80ad27e/Raw%20Data.csv)
 
 ## 📑 Dataset Description
@@ -84,7 +84,7 @@ When we examine the Data, we observe a number of Different Columns.
 # ✅ Installation : ETL Tools ✅
 
 Using the Raw Data, I crafted an Insightful and Visually Compelling Checkpoint in Anaconda Jupyter-Notebook.
-- Anaconda Installation Link :- [https://www.microsoft.com/en-in/microsoft-365/excel](https://www.anaconda.com/download)
+- Anaconda Installation Link :- https://www.anaconda.com/download
   
 # 🧹 Data Cleaning ✨
 
