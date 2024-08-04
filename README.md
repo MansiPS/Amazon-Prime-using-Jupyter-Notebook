@@ -42,9 +42,8 @@ As a Prime Member, the Exceptional Ease and Unique Benefits has sparked a Keen i
 
 The Amazon Prime Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :- https://github.com/MansiPS/Amazon-Prime-using-Jupyter-Notebook/blob/e7ca74a0e06b193f7c5368cecfaeebedd1324e15/Raw%20Data.csv
-](https://github.com/MansiPS/Amazon-Prime-using-Jupyter-Notebook/blob/6946f23bdfc0612caa4647f0da2a0430c80ad27e/Raw%20Data.csv)
-
+- Link :- [Raw Data.csv](https://github.com/user-attachments/files/16486861/Raw.Data.csv)
+  
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
