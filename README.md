@@ -48,27 +48,14 @@ The Amazon Prime Dataset is an Excel File, featuring one Comprehensive and Metic
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Accident Index : An Unique Identifier for each Reported Accident.🚨
-- Accident Date : The Date in which the Accident occurred.
-- Day of Week : The Day in which the Accident occurred.
-- Junction Details : Specifics about the Junction Location.⚠️
-- Accident Severity : Degree of Impact or Harm caused by the Accident.🤕
-- Latitude : Geographic Latitude of the Accident Location.
-- Light Conditions : Lighting Status at the Time of the Accident.💥
-- Local Authority (District) : Administrative District where the Accident Occurred.
-- Carriageway Hazards : Obstacles or Dangers on the Road.
-- Longitude : Geographic Longitude of the Accident Location.
-- Number of Casualties : Total Number of Injured Individuals.🤕🤦‍♂️
-- Number of Vehicles : Count of Vehicles Involved in the Accident.🚘
-- Police Force : The Police Department responding to the Incident.🚓👮
-- Road Surface Conditions : Quality and State of the Road Surface.
-- Road Type : Classification of the Road.
-- Speed Limit : Maximum allowable Speed at the Accident Location.⚠️☠️🚨
-- Time : Exact Time when the Accident Occurred.
-- Urban or Rural Area : Classification of the Area where the Accident Happened.
-- Weather Conditions : Weather Conditions at the Time of the Accident.
-- Vehicle Type : Classification of the Vehicles Involved.
-
+- Show Id : A Unique Identifier assigned to each Amazon Prime Video for Easy Reference. 🎬
+- Year of Release : The Year in which the Show or Movie was First made available to the Public. 📅
+- No of Seasons Available : The Total Number of Seasons that are currently available for Streaming. 📺
+- Language : The Primary Language in which the Show or Movie is Presented. 🌐
+- Genre : The Category or Type of Content such as Drama, Comedy or Thriller, that the Show or Movie falls under. 🎭
+- IMDb Ratings : The Score given by IMDb Users that reflects the Overall Quality or Popularity of the Show or Movie. ⭐️
+- Age of Viewers : The Recommended Minimum Age for Viewers, Indicating Appropriate Content Suitability. 🧒
+  
 # Requirement
 
 - ✅ The Total Casualties taken place after the Accident.
