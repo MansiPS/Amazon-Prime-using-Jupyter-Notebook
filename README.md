@@ -92,7 +92,7 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Checkpoint i
 
 # 🚀 My Project
 
-A Thorough and Exhaustive Analysis of the Dataset has been Performed, showcasing through a Diverse Array of Captivating Visualizations📊📈 with Insightful Observations and Conclusions Delineated below.
+A Thorough and Exhaustive Analysis of the Dataset has been Performed, showcasing through a Diverse Array of Captivating Visualizations📊📈 with Insightful Observations🕵🏻‍♂️ and Conclusions📝 Delineated below.
 
 Check it here :- https://github.com/MansiPS/Amazon-Prime-using-Jupyter-Notebook/blob/6946f23bdfc0612caa4647f0da2a0430c80ad27e/Amazon%20Prime-checkpoint.html
 
