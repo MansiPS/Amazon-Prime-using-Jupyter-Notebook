@@ -1,4 +1,4 @@
-# Amazon Prime using Jupyter Notebook
+# Amazon Prime Analysis using Jupyter Notebook
 
 ![Designer (1)](https://github.com/user-attachments/assets/e46a4770-0b58-4c9f-a66c-faa6832c223e)
 
@@ -9,7 +9,9 @@
 
 # 📃Description
 
-Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities, presenting a critical area of Research dedicated to Traffic Accident Analysis and Predictive Techniques. By Scrutinizing the myriad factors that lead to these Tragic events, we aim to uncover the most Pivotal Contributors to Road Traffic Accidents.
+Amazon Prime is a Multifaceted Subscription Service offered by Amazon, granting members Exclusive access to a wide array of benefits. These include Expedited Shipping, an Extensive Streaming Library of Movies, TV Shows, and Music, as well as Special Shopping Deals. It has become a Cornerstone of Amazon's Ecosystem, enhancing Customer Loyalty and Satisfaction.
+
+This Project Delves into the Intricate Workings of Amazon Prime, exploring its Diverse features and their Impact on User Engagement. Through Meticulous Research and Evaluation, the Project will shed light on the Nuances that make Amazon Prime a Leader in the Subscription Service Market.
 
 # Table of Content
 
@@ -30,15 +32,15 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 # 🚀 Project Goal
 
-To Develop an Intricate Road Accident Dashboard for the years 2021 and 2022, encapsulating Critical Insights and Data to Illuminate the key factors influencing Road Traffic Accidents.
+To Thoroughly Investigate and Elucidate the various Advantages and Strategic Success of Amazon Prime, providing Valuable Insights that could Enhance User Engagement and Satisfaction.
 
 # Project Motivation
 
-The Motivation driving this project is to Utilize Advanced Data Analysis and Predictive Techniques to significantly improve Road Safety and reduce the Incidence of Traffic Accidents Worldwide.
+As a Prime Member, the Exceptional Ease and Unique Benefits has sparked a Keen interest in Understanding what makes Amazon Prime the Top Choice for Countless Users Globally.
 
 # ⏳ Dataset
 
-The Road Accident Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
+The Amazon Prime Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
 - Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16469050/Raw.Data.xlsx)
 
